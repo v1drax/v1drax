@@ -1,5 +1,5 @@
 ## Hey 👋, I'm [AswiN !](https://github.com/v1drax/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/aswinhrtlez)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/v1drax)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/aswinhrtlez)
 <br>
 <br>
@@ -8,12 +8,12 @@
 <br>
 
 
-### <b> Hey Guys I am AswiN  a.k.a  V1draX .  I am a Cybersecurity Student intrested in blockchain and Web3  ^_^ <b> 
+### <b> Hey am AswiN  a.k.a  [V1draX !](https://twitter.com/v1drax) .  I'am a Cybersecurity Student who is intrested in blockchain and Web3  ^_^ <b> 
  
  
 
 
-Joined Github **3** years ago.
+<code>Joined Github **3** years ago.</code>
 
 
 
