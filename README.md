@@ -1,4 +1,4 @@
-<h2 align="left">  Hey 👋, I'm AswiN a.k.a  [V1draX ](https://twitter.com/v1drax) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align="left">  Hey 👋, I'm AswiN a.k.a [V1dr4X](https://twitter.com/v1dr4x) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/v1drax)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/aswinhrtlez)
 <br>
