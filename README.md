@@ -20,6 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Shoppy HacktheBox Writeup &lpar;Detailed&rpar;](https://v1dr4x.medium.com/shoppy-hackthebox-writeup-detailed-2e654e384b3e?source=rss-6f129f7feb10------2)
+- [Blaster Tryhackme Walkthrough](https://systemweakness.com/blaster-tryhackme-walkthrough-81da95bb7f30?source=rss-6f129f7feb10------2)
+- [SQLmap Full Guide For Beginners](https://systemweakness.com/sqlmap-full-guide-for-beginners-920934cdedac?source=rss-6f129f7feb10------2)
+- [Library Tryhackme Walkthrough](https://systemweakness.com/library-tryhackme-walkthrough-c1bc39f21adc?source=rss-6f129f7feb10------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with me:</h3>
