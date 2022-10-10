@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm AswiN ⛳ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1> 
 <h3 align="center">A passionate Cyber security student (B.Tech) from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v1dr4x" alt="v1dr4x" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/v1dr4x" target="blank"><img src="https://img.shields.io/twitter/follow/v1dr4x?logo=twitter&style=for-the-badge" alt="v1dr4x" /></a> </p>
 
