@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+v1dr4x+here...)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm AswiN  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1> 
 <h3 align="center">A passionate Cyber security student (B.Tech) from India</h3>
 
@@ -7,7 +9,6 @@
 -  Another Friendly Hacker 💻
 
 -  Pentester, Red-Teamer, VAPT
-
 -  Currently learning **Solidity and Blockchain security**
 
 -  CTF Player at [Tryhackme ⛳](https://tryhackme.com/p/Aswindev)
