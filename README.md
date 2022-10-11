@@ -6,7 +6,7 @@
 
 -  Another Friendly Hacker 💻
 
--  Pentester, Red-Teamer, VAPT, OSINT, Forensic
+-  Pentester, Red-Teamer, VAPT
 
 -  Currently learning **Solidity and Blockchain security**
 
