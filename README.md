@@ -7,16 +7,11 @@
 <p align="left"> <a href="https://twitter.com/v1dr4x" target="blank"><img src="https://img.shields.io/twitter/follow/v1dr4x?logo=twitter&style=for-the-badge" alt="v1dr4x" /></a> </p>
 
 -  Another Friendly Hacker 💻
-
 -  Pentester, Red-Teamer, VAPT
 -  Currently learning **Solidity and Blockchain security**
-
 -  CTF Player at [Tryhackme ⛳](https://tryhackme.com/p/Aswindev)
-
 -  More about me [Here](https://v1dr4x.github.io/)
-
 -  Writing articles on [Medium](https://v1dr4x.medium.com/)
-
 -  Reach me here 💬 **rootaswin@gmail.com**
 
 ### Blogs posts
