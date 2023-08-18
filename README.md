@@ -14,6 +14,11 @@
 -  Writing articles on [Medium](https://v1dr4x.medium.com/)
 -  Reach me here 💬 **rootaswin@gmail.com**
 
+  ![GitHub Snake dark](https://github.com/v1dr4x/v1dr4x/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=v1dr4x&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Hacking Dutch Government-Broken Authentication To Full Website Takeover &lpar;P1&rpar;](https://systemweakness.com/hacking-dutch-government-broken-authentication-to-full-website-takeover-p1-9af477604d54?source=rss-6f129f7feb10------2)
