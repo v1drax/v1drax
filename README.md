@@ -18,13 +18,6 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=v1dr4x&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
-  ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/v1dr4x/v1dr4x/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 ### Blogs posts
