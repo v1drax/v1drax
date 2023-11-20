@@ -1,22 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+v1dr4x+here...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hacked+by+n0rmh3ll...)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm AswiN  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1> 
+<h1 align="center">Hi 👋, n0rmh3ll here <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1> 
 <h3 align="center">A passionate Cyber security student (B.Tech) from India</h3>
+<h3 align="center">Security Researcher and Penetration Tester</h3>
 
 
-<p align="left"> <a href="https://twitter.com/v1dr4x" target="blank"><img src="https://img.shields.io/twitter/follow/v1dr4x?logo=twitter&style=for-the-badge" alt="v1dr4x" /></a> </p>
+<p align="left"> <a href="https://twitter.com/n0rmh3ll" target="blank"><img src="https://img.shields.io/twitter/follow/n0rmh3ll?logo=twitter&style=for-the-badge" alt="n0rmh3ll" /></a> </p>
 
 -  Another Friendly Hacker 💻
--  Pentester, Red-Teamer, VAPT
+-  Pentester, Red-Teamer
+-  Freelance Cyber Security Researcher
 -  Currently learning **Solidity and Blockchain security**
 -  CTF Player at [Tryhackme ⛳](https://tryhackme.com/p/Aswindev)
 -  More about me [Here](https://v1dr4x.github.io/)
--  Writing articles on [Medium](https://v1dr4x.medium.com/)
+-  Writing articles on [Medium](https://n0rmh3ll.medium.com/)
 -  Reach me here 💬 **rootaswin@gmail.com**
-
-  ![GitHub Snake dark](https://github.com/v1dr4x/v1dr4x/blob/output/github-snake-dark.svg#gh-dark-mode-only)
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=v1dr4x&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=n0rmh3ll&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
 
 
@@ -30,10 +30,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/v1dr4x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="v1dr4x" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/v1dr4x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="v1dr4x" height="30" width="40" /></a>
-<a href="https://instagram.com/aswinhrtlez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswinhrtlez" height="30" width="40" /></a>
-<a href="https://medium.com/@v1dr4x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@v1dr4x" height="30" width="40" /></a>
+<a href="https://twitter.com/n0rmh3ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n0rmh3ll" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/n0rmh3ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n0rmh3ll" height="30" width="40" /></a>
+<a href="https://instagram.com/n0rmh3ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n0rmh3ll" height="30" width="40" /></a>
+<a href="https://medium.com/@n0rmh3ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@n0rmh3ll" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
