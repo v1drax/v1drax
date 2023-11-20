@@ -24,7 +24,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Dav Tryhackme Writeup [Detailed]](https://systemweakness.com/dav-tryhackme-writeup-v1dr4x-1901cf075d8?source=rss-6f129f7feb10------2)
 - [Hacking Dutch Government-Broken Authentication To Full Website Takeover &lpar;P1&rpar;](https://systemweakness.com/hacking-dutch-government-broken-authentication-to-full-website-takeover-p1-9af477604d54?source=rss-6f129f7feb10------2)
-- [Shoppy HacktheBox Writeup &lpar;Detailed&rpar;](https://v1dr4x.medium.com/shoppy-hackthebox-writeup-detailed-2e654e384b3e?source=rss-6f129f7feb10------2)
+- [Shoppy HacktheBox Writeup &lpar;Detailed&rpar;](https://n0rmh3ll.medium.com/shoppy-hackthebox-writeup-detailed-2e654e384b3e?source=rss-6f129f7feb10------2)
 - [Blaster Tryhackme Walkthrough](https://systemweakness.com/blaster-tryhackme-walkthrough-81da95bb7f30?source=rss-6f129f7feb10------2)
 <!-- BLOG-POST-LIST:END -->
 
