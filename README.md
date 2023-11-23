@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hacked+by+n0rmh3ll...)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, n0rmh3ll here <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1> 
-<h3 align="center">A passionate Cyber security student (B.Tech) from India</h3>
-<h3 align="center">Security Researcher and Penetration Tester</h3>
+<h3 align="center">Security Researcher and Penetration Tester from India 🇮🇳</h3>
 
 
 <p align="left"> <a href="https://twitter.com/n0rmh3ll" target="blank"><img src="https://img.shields.io/twitter/follow/n0rmh3ll?logo=twitter&style=for-the-badge" alt="n0rmh3ll" /></a> </p>
