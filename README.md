@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hacked+by+n0rmh3ll...)](https://git.io/typing-svg)
-
 <h1 align="center">Hi 👋, n0rmh3ll here <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1> 
 <h3 align="center">Security Researcher and Penetration Tester from India 🇮🇳</h3>
 
@@ -15,10 +13,6 @@
 -  Writing articles on [Medium](https://n0rmh3ll.medium.com/)
 -  Reach me here 💬 **rootaswin@gmail.com**
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=n0rmh3ll&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
-
-
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [SecurityBoat CTF Jan 2024 Challenge Detailed Solution!](https://n0rmh3ll.medium.com/securityboat-ctf-jan-2024-challenge-detailed-solution-6849fe1c2912?source=rss-6f129f7feb10------2)
