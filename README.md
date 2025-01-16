@@ -89,7 +89,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=n0rmh3ll&theme=tokyonight" alt="Layout with last medium posts"  />
-</div>
-
